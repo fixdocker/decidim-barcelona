@@ -2,6 +2,7 @@
 # Check what goes into the slug with `heroku run bash` and inside `du -h`
 
 ./spec
+*.md
 
 # Specs in Decidim oficial modules
 ./vendor/bundle/ruby/*.*.*/bundler/gems/decidim-*/decidim-*/spec
